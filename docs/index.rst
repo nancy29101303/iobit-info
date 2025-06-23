@@ -3,6 +3,11 @@ How to Get the Most Out of IObit: Login, License Key, Activation, and More
 
 IObit is a popular software company known for its performance optimization tools such as **Advanced SystemCare**, **Driver Booster**, and **IObit Uninstaller**. Whether you're a new user looking to install IObit products or an existing customer needing support, understanding how to navigate their services can greatly improve your experience.
 
+.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://tek.chat/
 This guide will help you understand the ins and outs of:
 
 - IObit login and account access
